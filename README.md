@@ -1,0 +1,1 @@
+An application for tracking the current stock price of selected companies using financialmodelingprep.com/api API, and showing general information on the selected company. Built using Vue3, TypeScript, Axios and Vite.
